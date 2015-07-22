@@ -42,3 +42,5 @@ payload = { 'cneSearchButtonName': 'search',
             'employer': '',
             'employerCity': '',
             'employerState': ''}
+
+website_excel_request = 'https://secure.sos.state.or.us/orestar/XcelCNESearch'
