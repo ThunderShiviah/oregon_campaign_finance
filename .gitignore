@@ -22,3 +22,6 @@ __pycache__
 .#*
 .coverage
 .un*
+
+# PyCharm IDE files
+.idea/
